@@ -1,3 +1,3 @@
-# Immoratlity AI
+# Immortality AI
 
 The technical manual
