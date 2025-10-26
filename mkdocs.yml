@@ -2,7 +2,7 @@ site_name: Immortality-AI
 site_description: "Live on for your loved ones with AI"
 
 repo_url: https://ai-knowledge-systems.netlify.app/
-repo_name: RAG
+repo_name: ImmortalityAI
 
 theme:
   icon:
@@ -32,7 +32,7 @@ extra:
   manifest: "manifest.json"
   social:
   - icon: "fontawesome/brands/github-alt"
-    link: "https://github.com/Python-Test-Engineer/"
+    link: "https://github.com/Python-Test-Engineer/immortality-ai"
 
 plugins:
 - search
@@ -91,4 +91,4 @@ nav:
   - "Contact": "craig/contact.md"
 
 copyright: |
-  &copy; 2025 <a href="https://ai-powered-knowledge-systems.netlify.app/"  target="_blank" rel="noopener">Craig West - Immortality AI</a>
+  &copy; 2025 <a href="https://immortalityai.netlify.app/"  target="_blank" rel="noopener">Craig West - Immortality AI</a>
