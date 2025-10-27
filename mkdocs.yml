@@ -59,7 +59,7 @@ markdown_extensions:
 # Page tree
 nav:
 - "About": "index.md"
-- "Data Sources": "index.md"
+- "Sample": "sample.md"
 - "Text":
   - "Gather": "pipeline/01_gather.md"
   - "Ingest and NLP": "pipeline/02_ingest.md"
@@ -81,11 +81,6 @@ nav:
 - "Digital  Twin":
   - "PyTest Cookbook": "books.md"
   - "PyTest Django Full Stack": "books.md"
-- "Creative": "index.md"
-- "About Craig":
-  - "Services": "craig/services.md"
-  - "CV": "craig/cv.md"
-  - "Contact": "craig/contact.md"
 
 copyright: |
   &copy; 2025 <a href="https://immortalityai.netlify.app/"  target="_blank" rel="noopener">Craig West - Immortality AI</a>
