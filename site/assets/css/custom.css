@@ -1,3 +1,7 @@
+html {
+    scrollbar-gutter: stable;
+}
+
 .md-nav__title {
     font-size: 20px;
     font-weight: 800;
