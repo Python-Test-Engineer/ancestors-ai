@@ -1,3 +1,3 @@
-# Immortality AI
+# Ancestors AI
 
 ## The technical manual
