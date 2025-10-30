@@ -1,3 +1,3 @@
 # Ancestors AI
 
-The technical manual
+*Always here - never forgotten*
