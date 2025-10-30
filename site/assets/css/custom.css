@@ -2,6 +2,13 @@ html {
     scrollbar-gutter: stable;
 }
 
+.tagline {
+    color: rgb(229, 100, 229);
+    font-style: italic;
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+}
+
 .md-nav__title {
     font-size: 20px;
     font-weight: 800;

@@ -1,6 +1,6 @@
 # Ancestors AI
 
-*Always here - never forgotten*
+<span class="tagline">Always here - never forgotten</span>
 
 ## Mission
 
