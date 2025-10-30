@@ -1,82 +1,82 @@
-site_name: ImmortalityAI
+site_name: AncestorsAI
 site_description: "Live on for your loved ones with AI"
 
-repo_url: https://ai-knowledge-systems.netlify.app/
-repo_name: ImmortalityAI
+repo_url: https://ancestors-ai.com
+repo_name: AncestorsAI
 
 theme:
   icon:
     repo: fontawesome/brands/github
   name: "material" # readthedocs
   palette:
-  - media: "(prefers-color-scheme: light)"
-    primary: "purple"
-    accent: "grey"
-    scheme: default
-    toggle:
-      icon: material/brightness-7
-      name: Switch to dark mode
-  - media: "(prefers-color-scheme: dark)"
-    primary: "purple"
-    accent: "white"
-    scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: "purple"
+      accent: "grey"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: "purple"
+      accent: "white"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 extra_javascript:
-- "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
 extra_css:
-- "assets/css/custom.css"
+  - "assets/css/custom.css"
 extra:
   manifest: "manifest.json"
   social:
-  - icon: "fontawesome/brands/github-alt"
-    link: "https://github.com/Python-Test-Engineer/immortality-ai"
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://github.com/Python-Test-Engineer/immortality-ai"
 
 plugins:
-- search
-- mkdocstrings
+  - search
+  - mkdocstrings
 
 markdown_extensions:
-- pymdownx.highlight
-- pymdownx.superfences
-# - pymdownx.emoji:
-#     emoji_index: !!python/name:material.extensions.emoji.twemoji
-#     emoji_generator: !!python/name:material.extensions.emoji.to_svg
-- admonition
-- attr_list
-- codehilite
-- footnotes
-- toc:
-    permalink: true
-    separator: "_"
-- pymdownx.highlight:
-    anchor_linenums: true
-    line_spans: __span
-    pygments_lang_class: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - attr_list
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+      separator: "_"
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
 
 # Page tree
 nav:
-- "About": "index.md"
-- "Sample": "sample.md"
-- "Data":
-  - "Overview": "data/data.md"
-  - "WordPress": "data/wordpress.md"
-- "Text":
-  - "Gather": "text/text.md"
-- "Audio":
-  - "TTS and STT": "audio/audio.md"
-- "Video":
-  - "Overview": "video/video_overview.md"
-  - "Details": "video/video_details.md"
-- "Digital  Twin":
-  - "Twin": "twin/twin.md"
-  - "Latest": "twin/twin.md"
+  - "About": "index.md"
+  - "Sample": "sample.md"
+  - "Data":
+      - "Overview": "data/data.md"
+      - "WordPress": "data/wordpress.md"
+  - "Text":
+      - "Gather": "text/text.md"
+  - "Audio":
+      - "TTS and STT": "audio/audio.md"
+  - "Video":
+      - "Overview": "video/video_overview.md"
+      - "Details": "video/video_details.md"
+  - "Digital  Twin":
+      - "Twin": "twin/twin.md"
+      - "Latest": "twin/twin.md"
 
-- "About Craig":
-  - "CV": "craig/cv.md"
-  - "Contact": "craig/contact.md"
+  - "About Craig":
+      - "CV": "craig/cv.md"
+      - "Contact": "craig/contact.md"
 
 copyright: |
-  &copy; 2025 <a href="https://immortalityai.netlify.app/"  target="_blank" rel="noopener">Craig West - Immortality AI</a>
+  &copy; 2025 <a href="https://ancestors-ai.com"  target="_blank" rel="noopener">Craig West - Ancestors AI</a>
