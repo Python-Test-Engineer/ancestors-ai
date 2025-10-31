@@ -75,7 +75,6 @@ nav:
       - "Details": "video/video_details.md"
   - "Digital  Twin":
       - "Twin": "twin/twin.md"
-      - "Latest": "twin/twin.md"
 
   - "About Craig":
       - "CV": "craig/cv.md"
