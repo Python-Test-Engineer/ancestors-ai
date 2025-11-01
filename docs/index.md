@@ -8,6 +8,10 @@ To enable the general user to store to one central Knowledge Base that which the
 
 To have this Knowledge Base structured and optimised for AI to its magic, which may include a personalised chatbot from text->audio->video output to ultimately creating a Digital Twin to have a Zoom-like convesation with living loved ones.
 
+[![Video Thumbnail](https://img.youtube.com/vi/60StHg1eOuM/0.jpg)](https://www.youtube.com/watch?v=60StHg1eOuM)
+
+[![Video Thumbnail](https://img.youtube.com/vi/rgD2gmwCS10/0.jpg)](https://www.youtube.com/watch?v=rgD2gmwCS10)
+
 ## User friendly
 
 Using WordPress as the knowledge store, users can add images, notes, thoughts etc in a very user friendly way that will enable AI to work its magic.
