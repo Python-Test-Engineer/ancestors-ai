@@ -46,15 +46,15 @@ Letters can be writted so that you can express yourself fully to your loved ones
 
 Artwork, photos, stories, poems etc can also be store here and if you wish you can make these publicly available through the website.
 
-## Technical details
+## Technical terms
 
 Here are some technical details that are not necessary for the general user:
 
 **Knowledge Base**
-:   An AI-powerd representation of a person that captures their knowledge, personality, and communication style.
+:   A structured collection of information, data, and expertise on specific topics that can be searched and retrieved.
 
 **ChatBots**
-:   An AI-powerd representation of a person that captures their knowledge, personality, and communication style.
+:   AI-powered conversational agents that interact with users through text or voice, designed to answer questions and perform tasks.
 
 **Digital Twin**
 :   An AI-powered representation of a person that captures their knowledge, personality, and communication style.
@@ -66,4 +66,4 @@ Here are some technical details that are not necessary for the general user:
 :   Natural Language Processing - the branch of AI that helps computers understand and generate human language.
 
 **RAG**
-:   Natural Language Processing - the branch of AI that helps computers understand and generate human language.
+:   Retrieval-Augmented Generation - an AI technique that combines information retrieval from a knowledge base with text generation to provide more accurate and contextual responses.
