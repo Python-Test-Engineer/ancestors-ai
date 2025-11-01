@@ -8,6 +8,8 @@ To enable the general user to store to one central Knowledge Base that which the
 
 To have this Knowledge Base structured and optimised for AI to its magic, which may include a personalised chatbot from text->audio->video output to ultimately creating a Digital Twin to have a Zoom-like convesation with living loved ones.
 
+*...a sort of immortality of you for your loved one...*
+
 ### Examples
 
 [![Video Thumbnail](https://img.youtube.com/vi/60StHg1eOuM/0.jpg)](https://www.youtube.com/watch?v=60StHg1eOuM)
