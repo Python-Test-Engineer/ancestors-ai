@@ -41,7 +41,7 @@ Claude.ai was asked "Write 300 words or so on how AI can create digital avatars 
 *While the technology raises important questions about privacy, consent, and the nature of memory itself, it represents a revolutionary shift in how we think about legacy. For the first time in human history, we can leave behind not just records of our lives, but interactive versions of ourselves—bridging the gap between past and future, ensuring that our wisdom, stories, and love endure for generations to come.*
 
 
-### Use cases
+## Use cases
 
 #### Factual store
 
