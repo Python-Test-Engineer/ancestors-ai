@@ -10,7 +10,7 @@ To have this Knowledge Base structured and optimised for AI to its magic, which 
 
 *...a sort of immortality of you for your loved one...*
 
-### Examples
+## Examples
 
 [![Video Thumbnail](https://img.youtube.com/vi/60StHg1eOuM/0.jpg)](https://www.youtube.com/watch?v=60StHg1eOuM)
 
