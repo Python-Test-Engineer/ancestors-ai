@@ -10,7 +10,7 @@ To have this Knowledge Base structured and optimised for AI to its magic, which 
 
 *...a sort of immortality of you for your loved one...*
 
-## Examples
+## YT Examples
 
 [![Video Thumbnail](https://img.youtube.com/vi/60StHg1eOuM/0.jpg)](https://www.youtube.com/watch?v=60StHg1eOuM)
 
@@ -41,7 +41,7 @@ Claude.ai was asked "Write 300 words or so on how AI can create digital avatars 
 *While the technology raises important questions about privacy, consent, and the nature of memory itself, it represents a revolutionary shift in how we think about legacy. For the first time in human history, we can leave behind not just records of our lives, but interactive versions of ourselves—bridging the gap between past and future, ensuring that our wisdom, stories, and love endure for generations to come.*
 
 
-### Examples
+### Use cases
 
 #### Factual store
 
