@@ -2,6 +2,11 @@ html {
     scrollbar-gutter: stable;
 }
 
+#ancestors_ai {
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
 .tagline {
     color: rgb(229, 100, 229);
     font-style: italic;

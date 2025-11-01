@@ -1,6 +1,6 @@
 # Contact me
 
-Email: <iwswordpress@gmail.com>
+Email: <mrcraigwest@hotmail.com>
 
 <!-- ![Test results](../images/linkedin.png "LinkedIn") -->
 
