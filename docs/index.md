@@ -22,6 +22,23 @@ With guided tutorials and videos, a user will own their own website with their c
 
 There is the ability to make public some of the content as you wish via a general website.
 
+## Claude.ai
+
+Claude.ai was asked "Write 300 words or so on how AI can create digital avatars that can enable a sort of immortality of you for your loved ones".
+
+*Digital Immortality: AI Avatars for Future Generations*
+
+*Imagine having a conversation with a grandparent who passed away years before you were born, or allowing your great-grandchildren to seek advice from you decades after you're gone. This isn't science fiction anymore—artificial intelligence is making digital immortality possible through sophisticated avatars that preserve not just memories, but the essence of who we are.*
+
+*AI-powered digital avatars go far beyond simple recordings or photo albums. By analyzing your writing, voice recordings, videos, and personal documents, these systems can create interactive representations that capture your unique personality, knowledge, communication style, and even your sense of humor. Using natural language processing and machine learning, these digital twins can engage in meaningful conversations, share stories from your life, and offer perspectives shaped by your values and experiences.*
+
+*The process typically involves collecting various forms of personal data—emails, social media posts, voice messages, interviews, and written documents. Advanced AI models then learn the patterns in how you think, speak, and express yourself. The result is an avatar that doesn't just replay pre-recorded messages, but can respond dynamically to questions and situations you never explicitly addressed, based on what it has learned about your worldview and personality.*
+
+*For loved ones left behind, these avatars offer profound comfort and connection. Children can learn family history directly from their ancestors. Spouses can continue meaningful exchanges during the grieving process. Future generations can understand their heritage in an intimate, personal way that photographs and videos alone cannot provide.*
+
+*While the technology raises important questions about privacy, consent, and the nature of memory itself, it represents a revolutionary shift in how we think about legacy. For the first time in human history, we can leave behind not just records of our lives, but interactive versions of ourselves—bridging the gap between past and future, ensuring that our wisdom, stories, and love endure for generations to come.*
+
+
 ### Examples
 
 #### Factual store
