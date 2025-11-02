@@ -15,3 +15,5 @@ We can put this into various categores like WORK, CAREER etc as well as use TAGS
 This could be #acme-ltd for example and we can extend this to people, places and things.
 
 This enables an interconnected network of knowledge to be created and enables queries to select all items relating to a person, place or thing.
+
+Video to demonstarte this here...
