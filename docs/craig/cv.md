@@ -90,7 +90,11 @@ I use GitHub to host a copy of my CV.
 ##  Published Udemy Courses 
 Udemy is a great learning platform and having sales at least once a month, courses can be purchased for ~ £15/$15 USD.
 
-These have now been retired.
+**June 2024: [Pytest Cookbook - Using hooks to create plugins](https://www.udemy.com/course/pytest-cookbook-using-hooks-to-create-custom-plugins/)**
+
+![Pytest Cookbook - Using hooks to create plugins](../images/udemy-pytest-course.png)
+
+These following have now been retired.
 
 - WordPress REST API and AJAX Forms/Pages - DEMO https://www.youtube.com/watch?v=eubhbcGH_Ws&t=6s (paid)
 - Progressive Web Apps - DEMO https://www.youtube.com/watch?v=k_lHvNL0gkw (paid)
@@ -99,6 +103,8 @@ These have now been retired.
 
 
 ##  YouTube Courses - Developer to Developer courses
+
+**[https://www.youtube.com/@iwswordpress](https://www.youtube.com/@iwswordpress)**
 
 These are video courses that cover work through official documents to help other developers, learn in public and show prosepective employers not just what I know but how I learn and how I communicate technical matters to others.
 
