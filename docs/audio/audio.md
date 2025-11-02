@@ -28,3 +28,5 @@ This is OpenAI's API that is trained on audio to audio and does not require the 
 ## Stories
 
 One additional service is to create a story from the knowledge base that you speak to say grand children. Or it may be a story already created via AI that you can use.
+
+<br>

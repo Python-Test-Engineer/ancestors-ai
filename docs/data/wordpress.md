@@ -17,3 +17,5 @@ This could be #acme-ltd for example and we can extend this to people, places and
 This enables an interconnected network of knowledge to be created and enables queries to select all items relating to a person, place or thing.
 
 Video to demonstarte this here...
+
+<br>

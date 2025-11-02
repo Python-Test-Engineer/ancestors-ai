@@ -16,3 +16,5 @@ As a user you need not understand this. It is done by AI behind the scenes.
     Siteground does not support this for MySQL but we can create a vector field in a JSON/BLOB field and do cosine similarity search.
 
     When a user asks a question we can combine WP standard search along with semantic search and pick the top two in each as the content needed to augment the generation.
+
+<br>

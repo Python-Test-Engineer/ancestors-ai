@@ -72,10 +72,10 @@ nav:
   - "TTS and STT": "audio/audio.md"
 - "Video":
   - "Overview": "video/video_overview.md"
-  - "Details": "video/video_details.md"
+
 - "Digital  Twin":
   - "Twin": "twin/twin.md"
-
+- "Costs": "costs.md"
 - "About Craig":
   - "CV": "craig/cv.md"
   - "Contact": "craig/contact.md"

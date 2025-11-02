@@ -10,6 +10,8 @@ They are essentially snippets, litte notes that do not have to be structured in 
 
 AI needs datasets of question/answers to train on. To do this for AI content, the posts should be of the form that the `post title` is the question and the `post body` is the answer.
 
+One can take advantage of Speech-To-Text in Microsoft Word or other apps to enable you to chat away and have AI insert these into posts.
+
 We can further add categores and tags to the posts.
 
 ## Categories
@@ -45,3 +47,5 @@ In time, these platforms, including your email and file storage providers will p
 ## Email
 
 Email is a great source of data to train on. We can import your emails and process them if needed.
+
+<br>

@@ -86,3 +86,5 @@ Here are some technical details that are not necessary for the general user:
 
 **RAG**
 :   Retrieval-Augmented Generation - an AI technique that combines information retrieval from a knowledge base with text generation to provide more accurate and contextual responses.
+
+<br>
