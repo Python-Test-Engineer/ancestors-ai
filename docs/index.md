@@ -6,7 +6,7 @@
 
 ## Mission
 
-T enable the general user to store to one central Knowledge Base that which they wish to be available after their passing, in the easiest way possible.
+To enable the general user to store to one central Knowledge Base that which they wish to be available after their passing, in the easiest way possible.
 
 To have this Knowledge Base structured and optimised for AI to its magic, which may include a personalised chatbot from text->audio->video output to ultimately creating a Digital Twin to have a Zoom-like convesation with living loved ones.
 
