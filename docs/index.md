@@ -2,7 +2,7 @@
 
 <span class="tagline"><strong>Digital After Life</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<em>OF</em> you <em>FOR</em> your loved ones...</span>
+<em>OF</em> you...<em>FOR</em> your loved ones...</span>
 
 ## Mission
 
