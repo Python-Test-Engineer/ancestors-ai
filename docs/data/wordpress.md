@@ -1,6 +1,6 @@
 # WordPress
 
-## WP as Knowledged store
+## Knowledge store
 
 There are two main ways we store and present our knowledge:
 
