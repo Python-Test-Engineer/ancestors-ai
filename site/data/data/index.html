@@ -366,9 +366,19 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="User input">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#posts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Posts
+    </span>
+  </a>
+  
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#categories" class="md-nav__link">
     <span class="md-ellipsis">
       Categories
@@ -376,8 +386,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#tags" class="md-nav__link">
     <span class="md-ellipsis">
       Tags
@@ -385,8 +395,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#prompts" class="md-nav__link">
     <span class="md-ellipsis">
       Prompts
@@ -394,8 +404,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#social_media" class="md-nav__link">
     <span class="md-ellipsis">
       Social Media
@@ -403,13 +413,18 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#email" class="md-nav__link">
     <span class="md-ellipsis">
       Email
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -839,9 +854,19 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="User input">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#posts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Posts
+    </span>
+  </a>
+  
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#categories" class="md-nav__link">
     <span class="md-ellipsis">
       Categories
@@ -849,8 +874,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#tags" class="md-nav__link">
     <span class="md-ellipsis">
       Tags
@@ -858,8 +883,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#prompts" class="md-nav__link">
     <span class="md-ellipsis">
       Prompts
@@ -867,8 +892,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#social_media" class="md-nav__link">
     <span class="md-ellipsis">
       Social Media
@@ -876,13 +901,18 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#email" class="md-nav__link">
     <span class="md-ellipsis">
       Email
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -903,33 +933,34 @@
 
 <h1 id="data_sources">Data Sources<a class="headerlink" href="#data_sources" title="Permanent link">&para;</a></h1>
 <h2 id="user_input">User input<a class="headerlink" href="#user_input" title="Permanent link">&para;</a></h2>
+<h3 id="posts">Posts<a class="headerlink" href="#posts" title="Permanent link">&para;</a></h3>
 <p>The first phase is users create POSTS in WordPress.</p>
 <p>These are like an email - a subject title and the content. We will call this the <code>post title</code> and <code>post body</code>.</p>
 <p>They are essentially snippets, litte notes that do not have to be structured in any way.</p>
 <p>AI needs datasets of question/answers to train on. To do this for AI content, the posts should be of the form that the <code>post title</code> is the question and the <code>post body</code> is the answer.</p>
 <p>One can take advantage of Speech-To-Text in Microsoft Word or other apps to enable you to chat away and have AI insert these into posts.</p>
 <p>We can further add categores and tags to the posts.</p>
-<h2 id="categories">Categories<a class="headerlink" href="#categories" title="Permanent link">&para;</a></h2>
+<h3 id="categories">Categories<a class="headerlink" href="#categories" title="Permanent link">&para;</a></h3>
 <p>Categories are like folders in a file system. Posts are grouped by category area and they can be in many categories.</p>
-<h2 id="tags">Tags<a class="headerlink" href="#tags" title="Permanent link">&para;</a></h2>
+<h3 id="tags">Tags<a class="headerlink" href="#tags" title="Permanent link">&para;</a></h3>
 <p>Tags are like keywords. Posts can have many tags. Tags can be used to group posts together by tag - tags are like people, places and things that can be in many categores but can also be in many tags.</p>
 <div class="admonition tip">
 <p class="admonition-title">Example</p>
 <p>A person is tagged a <code>Joe Bloggs</code> and whenever there is a post that references Joe Bloggs, it will be tagged with <code>Joe Bloggs</code>.</p>
 </div>
 <p>Later we may search for content based on this person without having to reference categories.</p>
-<h2 id="prompts">Prompts<a class="headerlink" href="#prompts" title="Permanent link">&para;</a></h2>
+<h3 id="prompts">Prompts<a class="headerlink" href="#prompts" title="Permanent link">&para;</a></h3>
 <p>It can be a challenge to think of posts to write. That is why one can have set of over 500 draft posts that can be used as prompts to help you write posts. They may also stimulate other posts.</p>
 <div class="admonition tip">
 <p class="admonition-title">Example</p>
 <p><code>What was your first job?</code> - this can be used as a prompt to write a post about your first job and it may stimulate other posts like a person you were friends with at that job. </p>
 <p>The post will be unser the category of<code>work</code> most likely and the company will be tagged with <code>acme-ltd</code> and the person will be tagged with <code>Joe Bloggs</code>.</p>
 </div>
-<h2 id="social_media">Social Media<a class="headerlink" href="#social_media" title="Permanent link">&para;</a></h2>
+<h3 id="social_media">Social Media<a class="headerlink" href="#social_media" title="Permanent link">&para;</a></h3>
 <p>Social media like Facebook and LinkedIn contain so much information that you have already entered. It is a great source of data to train on. It can also be used to formulate your personality type, make predicitons etc as these social media sites already do.</p>
 <p>At this time, this knowledge is not available to you.</p>
 <p>In time, these platforms, including your email and file storage providers will probably offer a service to create the Knowledge Base for your digital twin.</p>
-<h2 id="email">Email<a class="headerlink" href="#email" title="Permanent link">&para;</a></h2>
+<h3 id="email">Email<a class="headerlink" href="#email" title="Permanent link">&para;</a></h3>
 <p>Email is a great source of data to train on. We can import your emails and process them if needed.</p>
 <p><br></p>
 

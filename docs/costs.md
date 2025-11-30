@@ -1,6 +1,5 @@
 # Costs
 
-
 ## Standard
 
 The first year of hosting with a free domain name is around £30GBP/$40USD per annum.

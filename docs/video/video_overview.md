@@ -13,7 +13,7 @@ This is more involved but the services are getting more advanced and the pricing
 
 An audio chatbot is probably the best way to go if one wants more than a text chatbot.
 
-## To oome!
+## To come!
 
 The lip syncing services above may not seem to b 100% life like.
 

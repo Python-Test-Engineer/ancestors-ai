@@ -1,6 +1,5 @@
 # Twin
 
-
 ## Digital Humans
 
 The ultimate form of AncestorsAI and ImmoratlityAI is for a Zoom like conversation with our ancestors.

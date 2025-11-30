@@ -2,6 +2,8 @@
 
 ## User input
 
+### Posts
+
 The first phase is users create POSTS in WordPress.
 
 These are like an email - a subject title and the content. We will call this the `post title` and `post body`.
@@ -14,11 +16,11 @@ One can take advantage of Speech-To-Text in Microsoft Word or other apps to enab
 
 We can further add categores and tags to the posts.
 
-## Categories
+### Categories
 
 Categories are like folders in a file system. Posts are grouped by category area and they can be in many categories.
 
-## Tags
+### Tags
 
 Tags are like keywords. Posts can have many tags. Tags can be used to group posts together by tag - tags are like people, places and things that can be in many categores but can also be in many tags.
 
@@ -27,7 +29,7 @@ Tags are like keywords. Posts can have many tags. Tags can be used to group post
 
 Later we may search for content based on this person without having to reference categories.
 
-## Prompts
+### Prompts
 
 It can be a challenge to think of posts to write. That is why one can have set of over 500 draft posts that can be used as prompts to help you write posts. They may also stimulate other posts.
 
@@ -36,7 +38,7 @@ It can be a challenge to think of posts to write. That is why one can have set o
 
     The post will be unser the category of`work` most likely and the company will be tagged with `acme-ltd` and the person will be tagged with `Joe Bloggs`.
 
-## Social Media
+### Social Media
 
 Social media like Facebook and LinkedIn contain so much information that you have already entered. It is a great source of data to train on. It can also be used to formulate your personality type, make predicitons etc as these social media sites already do.
 
@@ -44,7 +46,7 @@ At this time, this knowledge is not available to you.
 
 In time, these platforms, including your email and file storage providers will probably offer a service to create the Knowledge Base for your digital twin.
 
-## Email
+### Email
 
 Email is a great source of data to train on. We can import your emails and process them if needed.
 

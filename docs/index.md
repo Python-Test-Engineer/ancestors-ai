@@ -6,9 +6,13 @@
 
 ## Mission
 
-To enable the general user to store to one central Knowledge Base that which they wish to be available after their passing, in the easiest way possible.
+To create a Knowledge Base of one's life for others.
 
-To have this Knowledge Base structured and optimised for AI to its magic, which may include a personalised chatbot from text->audio->video output to ultimately creating a Digital Twin to have a Zoom-like convesation with living loved ones.
+- User friendly app that takes 'notes', that is as simple as sending emails.
+- Categories and tagged for AI search.
+- Text chat bot to ask questions and chat.
+- Extendable to a Voice Agent using your clone voice or another's.
+- Extendable to a Video CHatbot of you with your face and voice.
 
 *...a sort of immortality of you for your loved one...*
 
@@ -47,7 +51,11 @@ Claude.ai was asked "Write 300 words or so on how AI can create digital avatars 
 
 #### Factual store
 
-Important facts about you and your life can be catalougued and made available according to security rules.
+Important facts about you and your life can be catalogued and made available according to security rules.
+
+- Add small 'notes' or a photo with a narrative.
+- Add links to your YouTuve Videos and Podcasts.
+- Let AI create stories based on you 'notes' and tell future generations stories about you and your life.
 
 #### Biography
 
