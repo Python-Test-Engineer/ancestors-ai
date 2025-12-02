@@ -63,18 +63,18 @@ markdown_extensions:
 nav:
 - "About": "index.md"
 # - "Sample": "sample.md"
-- "Data Sources":
-  - "Sources": "data/data.md"
-  - "WordPress": "data/wordpress.md"
-- "Text":
-  - "Chatbot": "text/chatbot.md"
-- "Audio":
-  - "TTS and STT": "audio/audio.md"
-- "Video":
-  - "Overview": "video/video_overview.md"
+# - "Data Sources":
+#   - "Sources": "data/data.md"
+#   - "WordPress": "data/wordpress.md"
+# - "Text":
+#   - "Chatbot": "text/chatbot.md"
+# - "Audio":
+#   - "TTS and STT": "audio/audio.md"
+# - "Video":
+#   - "Overview": "video/video_overview.md"
 
-- "Digital  Twin":
-  - "Twin": "twin/twin.md"
+# - "Digital  Twin":
+#   - "Twin": "twin/twin.md"
 - "Costs": "costs.md"
 - "About Craig":
   - "CV": "craig/cv.md"
