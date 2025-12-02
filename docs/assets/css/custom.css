@@ -2,13 +2,25 @@ html {
     scrollbar-gutter: stable;
 }
 
+/* Override H3 border color to orange in MkDocs Material theme */
+.md-typeset h3 {
+    border-left-color: #ff8c00 !important;
+}
+
+/* Alternative orange shades you can use: */
+/* 
+   #ff8c00 - Dark orange
+   #ffa500 - Orange
+   #ff6600 - Bright orange
+   #ff7f00 - Medium orange
+*/
 #ancestors_ai {
     font-weight: bold;
     letter-spacing: 2px;
 }
 
 .tagline {
-    color: orangered;
+    color: #ff8c00;
     font-style: italic;
     font-size: 1.3rem;
     letter-spacing: 2px;
