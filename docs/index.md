@@ -144,7 +144,8 @@ You control every aspect of who sees what. Nothing is public unless you choose t
 
 ---
 
-*For the people we love. For the stories that matter. For tomorrow.*
+
+<span class="tagline"><strong>For the people we love. For the stories that matter. For tomorrow.</strong></span>
 
 **Ancestors AI** - Your Digital Legacy, Lovingly Preserved
 
