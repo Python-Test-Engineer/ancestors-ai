@@ -79,6 +79,12 @@ Video brings everything together—your face, your voice, your presence—in an 
 ### A Living Biography
 Your life, told your way. Let AI help weave your individual stories into a beautiful, coherent narrative of who you are.
 
+### Videos, comics...
+
+With all the latest models, you can take an experience, an image of it and yourself and create videos or comic books.
+
+Creatively, the options are endless...a custom bedtime story for little Susie...
+
 ### Important Facts, Safely Kept
 Medical history, family traditions, important life events—all organized and accessible according to your wishes.
 
