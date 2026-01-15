@@ -1,5 +1,7 @@
 # Process
 
+<img src="./images/brochure2.png">
+
 ## Create domain site
 
 ## Load in plugins

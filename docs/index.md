@@ -1,7 +1,7 @@
 # Keep Their Stories Alive
 
-<!-- *A gentle way to preserve the ones you love*
- -->
+<img src="./images/brochure1.png">
+
 <span class="tagline"><strong>A gentle way to preserve the ones you love</strong></span>
 
 ---
