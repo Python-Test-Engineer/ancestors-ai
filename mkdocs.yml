@@ -63,6 +63,7 @@ markdown_extensions:
 nav:
 - "About": "index.md"
 - "Brochure": "living-legacy.pdf"
+- "Process": "process.md"
 - "Costs": "costs.md"
 - "About Craig":
   - "CV": "craig/cv.md"
