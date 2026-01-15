@@ -62,7 +62,7 @@ markdown_extensions:
 # Page tree
 nav:
 - "About": "index.md"
-- "Brochure": "living-legacy.pdf"
+- "Brochure": "brochure.md"
 - "Process": "process.md"
 - "Costs": "costs.md"
 - "About Craig":
