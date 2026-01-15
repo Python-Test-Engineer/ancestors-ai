@@ -1,0 +1,72 @@
+site_name: AncestorsAI
+site_description: "Digital After Life OF you FOR your loved ones"
+
+repo_url: https://ancestors-ai.com
+repo_name: AncestorsAI
+
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Raleway
+    code: Roboto Mono
+  name: "material"
+  palette:
+  # Dark mode as default (listed first)
+  - scheme: slate
+    primary: "orange"
+    accent: "white"
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  # Light mode as alternative
+  - scheme: default
+    primary: "orange"
+    accent: "grey"
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+
+extra_javascript:
+- "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+extra_css:
+- "assets/css/custom.css"
+extra:
+  manifest: "manifest.json"
+  social:
+  - icon: "fontawesome/brands/github-alt"
+    link: "https://github.com/Python-Test-Engineer/immortality-ai"
+
+plugins:
+- search
+- mkdocstrings
+
+markdown_extensions:
+- pymdownx.highlight
+- pymdownx.superfences
+# - pymdownx.emoji:
+#     emoji_index: !!python/name:material.extensions.emoji.twemoji
+#     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- admonition
+- attr_list
+- codehilite
+- footnotes
+- toc:
+    permalink: true
+    separator: "_"
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+
+# Page tree
+nav:
+- "About": "index.md"
+- "Brochure": "living-legacy.pdf"
+- "Costs": "costs.md"
+- "About Craig":
+  - "CV": "craig/cv.md"
+  - "Contact": "craig/contact.md"
+
+copyright: |
+  &copy; 2025 <a href="https://ancestors-ai.com"  target="_blank" rel="noopener">Craig West - Ancestors AI</a>
