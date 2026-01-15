@@ -1,5 +1,9 @@
 version = 1
+<<<<<<< HEAD
 revision = 2
+=======
+revision = 3
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 requires-python = ">=3.13"
 
 [[package]]
@@ -8,6 +12,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "mkdocs" },
+<<<<<<< HEAD
     { name = "mkdocs-material" },
 ]
 
@@ -89,6 +94,12 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/da/5f/6b8f83a55bb8278772c5ae54a577f3099025f9ade59d0136ac24a0df4bde/charset_normalizer-3.4.4-cp314-cp314-win_arm64.whl", hash = "sha256:de00632ca48df9daf77a2c65a484531649261ec9f25489917f09e455cb09ddb2", size = 100743, upload-time = "2025-10-14T04:41:52.122Z" },
     { url = "https://files.pythonhosted.org/packages/0a/4c/925909008ed5a988ccbb72dcc897407e5d6d3bd72410d69e051fc0c14647/charset_normalizer-3.4.4-py3-none-any.whl", hash = "sha256:7a32c560861a02ff789ad905a2fe94e3f840803362c84fecf1851cb4cf3dc37f", size = 53402, upload-time = "2025-10-14T04:42:31.76Z" },
 ]
+=======
+]
+
+[package.metadata]
+requires-dist = [{ name = "mkdocs", specifier = ">=1.6.1" }]
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 
 [[package]]
 name = "click"
@@ -124,6 +135,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "idna"
 version = "3.11"
 source = { registry = "https://pypi.org/simple" }
@@ -133,6 +145,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 name = "jinja2"
 version = "3.1.6"
 source = { registry = "https://pypi.org/simple" }
@@ -253,6 +267,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "mkdocs-material"
 version = "9.7.1"
 source = { registry = "https://pypi.org/simple" }
@@ -284,6 +299,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 name = "packaging"
 version = "25.0"
 source = { registry = "https://pypi.org/simple" }
@@ -293,6 +310,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "paginate"
 version = "0.5.7"
 source = { registry = "https://pypi.org/simple" }
@@ -302,6 +320,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 name = "pathspec"
 version = "0.12.1"
 source = { registry = "https://pypi.org/simple" }
@@ -320,6 +340,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "pygments"
 version = "2.19.2"
 source = { registry = "https://pypi.org/simple" }
@@ -342,6 +363,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 name = "python-dateutil"
 version = "2.9.0.post0"
 source = { registry = "https://pypi.org/simple" }
@@ -402,6 +425,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "requests"
 version = "2.32.5"
 source = { registry = "https://pypi.org/simple" }
@@ -417,6 +441,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 name = "six"
 version = "1.17.0"
 source = { registry = "https://pypi.org/simple" }
@@ -426,6 +452,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "urllib3"
 version = "2.6.3"
 source = { registry = "https://pypi.org/simple" }
@@ -435,6 +462,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> 41d6eb59343d3c683c3733fb8208c7fe0cf48992
 name = "watchdog"
 version = "6.0.0"
 source = { registry = "https://pypi.org/simple" }
