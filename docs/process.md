@@ -1,6 +1,6 @@
 # Process
 
-<img src="./images/brochure2.png">
+![PROCESS](./images/brochure2.png)
 
 ## Create domain site
 
@@ -15,3 +15,7 @@
 ## Set up VAPI
 
 ## Set up PALS
+
+## How It Works
+
+

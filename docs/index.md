@@ -60,6 +60,8 @@ The technology is sophisticated, but the feeling is simple: *connection*.
 
 ## How It Works
 
+<img src="./images/brochure2.png">
+
 **Step One: Share Your Stories**  
 Write blog posts, upload photos, record memories. It's as easy as sending an email. Categories and tags help organize everything naturally.
 
