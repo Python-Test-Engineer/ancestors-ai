@@ -45,7 +45,7 @@ One online studio is [OpenArt](https://openart.ai/home). The images can then be 
 
 ## The future
 
-As time progresses, the quality and range of services will increase, costs will drop, (10x per year seems to be the rate), and having 'a ZOOM conversation with a departed loved one will become everyday.
+As time progresses, the quality and range of services will increase, costs will drop, (10x per year seems to be the rate), and having 'a ZOOM conversation with a departed loved one' will become everyday.
 
 In fact, as the decades pass, perhaps children will grow up in a culture where DIgital Humans seems as normal as the current generation sees smart phones and social media - how did we ever live without it!
 
