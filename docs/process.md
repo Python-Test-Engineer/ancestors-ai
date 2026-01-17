@@ -34,6 +34,15 @@ There are many architectures and services one can use.
 
 [https://www.tavus.io/](https://www.tavus.io/), [https://www.heygen.com/](https://www.heygen.com/) are a few of the many sites that can add vidoe by lipsyncing audio with you own video avatar.
 
+
+## Cinematic AI
+
+By storing images, experiences, facts in our site we can produce scripts and resources for Cinematic AI.
+
+The area of cinematic AI, images, voices, and videos, is improving dramatically as well as becoming cheaper.
+
+One online studio is [OpenArt](https://openart.ai/home). The images can then be reimported to your site and videos save to YouTube with or without password protection.
+
 ## The future
 
 As time progresses, the quality and range of services will increase, costs will drop, (10x per year seems to be the rate), and having 'a ZOOM conversation with a departed loved one will become everyday.

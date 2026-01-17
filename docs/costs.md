@@ -18,4 +18,6 @@ I charge £30GBP/$40USD per hour for WP set up and guidance on how to use the sy
 
 For more technical features like audio and video chatbots, I charge £50GBP/$60USD per hour.
 
+This also includes Cinematic AI work - [Cinematic AI](https://ancestors-ai.com/future/#cinematic_ai).
+
 <br>
