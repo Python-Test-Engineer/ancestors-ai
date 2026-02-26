@@ -1,5 +1,7 @@
 # Keep Their Stories Alive
 
+## Retirement of project...
+
 *This was a Proof of Concept project to show how Ancestors-AI can work on a lightweight scale.*
 
 *In the section 'The Future?', I speculated that social media sites like Meta, (Facebook), would be able to do this with a 'one click button'.*
