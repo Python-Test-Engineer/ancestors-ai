@@ -1,8 +1,8 @@
-
+# Keep Their Stories Alive
 
 *This was a Proof of Concept project to show how Ancestors-AI can work on a lightweight scale.*
 
-*In the section</div> [The Future?](https://ancestors-ai.com/future/), I speculated that social media sites like Meta, (Facebook), would be able to do this with a 'one click button'.*
+*In the section 'The Future?', I speculated that social media sites like Meta, (Facebook), would be able to do this with a 'one click button'.*
 
 *Unbeknown to me, Meta had applied for a patent in 2023 that was granted in December 2025:*
 
@@ -14,9 +14,6 @@
 
 
 *Consequently, I am not pursuing the development of this project. Interested parties may contact me if they wish further information/work on their own version as detailed in this project.*
-
-
-# Keep Their Stories Alive
 
 
 <img src="./images/brochure1.png">
