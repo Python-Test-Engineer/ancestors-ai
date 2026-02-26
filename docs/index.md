@@ -1,4 +1,23 @@
+
+
+*This was a Proof of Concept project to show how Ancestors-AI can work on a lightweight scale.*
+
+*In the section</div> [The Future?](https://ancestors-ai.com/future/), I speculated that social media sites like Meta, (Facebook), would be able to do this with a 'one click button'.*
+
+*Unbeknown to me, Meta had applied for a patent in 2023 that was granted in December 2025:*
+
+<img src="./images/META01.png">
+
+[https://metro.co.uk/2026/02/17/meta-patents-ai-lets-people-post-facebook-beyond-grave-26945853/](https://metro.co.uk/2026/02/17/meta-patents-ai-lets-people-post-facebook-beyond-grave-26945853/)
+
+<img src="./images/META02.png">
+
+
+*Consequently, I am not pursuing the development of this project. Interested parties may contact me if they wish further information/work on their own version as detailed in this project.*
+
+
 # Keep Their Stories Alive
+
 
 <img src="./images/brochure1.png">
 
